@@ -1,0 +1,32 @@
+
+.bulb{
+   
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 1px solid black;
+    justify-content: center;
+    background-color: rgb(22, 25, 181);
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items:flex-end;
+    height: 60vh;
+    
+
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 25px;
+}
+button{
+    background-color: grey;
+    height: 40px;
+    border-radius: 3px;
+    width: 95px;
+
+}
